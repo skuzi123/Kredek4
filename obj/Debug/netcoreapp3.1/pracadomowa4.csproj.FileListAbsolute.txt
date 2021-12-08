@@ -1,0 +1,14 @@
+C:\Users\mateu\source\repos\pracadomowa4\pracadomowa4\obj\Debug\netcoreapp3.1\pracadomowa4.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\pracadomowa4\pracadomowa4\obj\Debug\netcoreapp3.1\pracadomowa4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\pracadomowa4\pracadomowa4\obj\Debug\netcoreapp3.1\pracadomowa4.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\pracadomowa4\pracadomowa4\obj\Debug\netcoreapp3.1\pracadomowa4.AssemblyInfo.cs
+C:\Users\mateu\source\repos\pracadomowa4\pracadomowa4\obj\Debug\netcoreapp3.1\pracadomowa4.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\pracadomowa4\pracadomowa4\bin\Debug\netcoreapp3.1\pracadomowa4.exe
+C:\Users\mateu\source\repos\pracadomowa4\pracadomowa4\bin\Debug\netcoreapp3.1\pracadomowa4.deps.json
+C:\Users\mateu\source\repos\pracadomowa4\pracadomowa4\bin\Debug\netcoreapp3.1\pracadomowa4.runtimeconfig.json
+C:\Users\mateu\source\repos\pracadomowa4\pracadomowa4\bin\Debug\netcoreapp3.1\pracadomowa4.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\pracadomowa4\pracadomowa4\bin\Debug\netcoreapp3.1\pracadomowa4.dll
+C:\Users\mateu\source\repos\pracadomowa4\pracadomowa4\bin\Debug\netcoreapp3.1\pracadomowa4.pdb
+C:\Users\mateu\source\repos\pracadomowa4\pracadomowa4\obj\Debug\netcoreapp3.1\pracadomowa4.dll
+C:\Users\mateu\source\repos\pracadomowa4\pracadomowa4\obj\Debug\netcoreapp3.1\pracadomowa4.pdb
+C:\Users\mateu\source\repos\pracadomowa4\pracadomowa4\obj\Debug\netcoreapp3.1\pracadomowa4.genruntimeconfig.cache
